@@ -38,6 +38,7 @@ void circle_points(vector <point> initial_center, vector <point> &on_circle_roun
 // The orientation function returns : 
 // 0 for p, q and r are colinear 
 // 1 for Clockwise 
+
 // 2 for Counterclockwise
 
 
